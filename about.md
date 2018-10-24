@@ -1,10 +1,10 @@
 ---
-bg: "nepal_face.jpeg"
+bg: "page_photos/nepal_mountain.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "PT: About"
 permalink: /about/
-summary: "About this blog"
+summary: ""
 active: about
 ---
 

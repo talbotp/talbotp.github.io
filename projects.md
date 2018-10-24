@@ -1,10 +1,10 @@
 ---
-bg: "tag.jpg"
+bg: "page_photos/code.jpeg"
 layout: page
-permalink: /posts/
+permalink: /projects/
 title: "Projects"
-crawlertitle: "All articles"
-summary: "Finished and Ongoing Projects"
+crawlertitle: "PT: Projects"
+summary: ""
 active: Projects
 ---
 

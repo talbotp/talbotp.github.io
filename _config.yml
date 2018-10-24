@@ -23,6 +23,9 @@ disqus_username:
 markdown: kramdown
 permalink: /:categories/:title/
 
+kramdown:
+  parse_block_html: true
+
 # Posts settings
 future: true
 safe: false
