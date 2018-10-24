@@ -1,10 +1,10 @@
 ---
-bg: "tag.jpg"
+bg: "/page_photos/nepal_glacier.JPG"
 layout: page
 permalink: /contact/
 title: "Contact Me"
 crawlertitle: "PT: Contact"
-summary: "Contact"
+summary: ""
 active: Contact
 ---
 
