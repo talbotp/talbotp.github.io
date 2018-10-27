@@ -1,5 +1,5 @@
 ---
-bg: "/page_photos/nepal_glacier.JPG"
+bg: "/page_photos/imagecompressor/nepal_glacier-min.JPG"
 layout: page
 permalink: /contact/
 title: "Contact Me"
@@ -7,6 +7,11 @@ crawlertitle: "PT: Contact"
 summary: ""
 active: Contact
 ---
+
+
+<h1>Work in progress</h1>
+
+<!---
 
 {% for tag in site.tags %}
   {% assign t = tag | first %}
@@ -31,4 +36,6 @@ active: Contact
   </ul>
 
 {% endfor %}
+
+--->
 

@@ -1,5 +1,5 @@
 ---
-bg: "page_photos/code.jpeg"
+bg: "page_photos/imagecompressor/code-min.jpeg"
 layout: page
 permalink: /projects/
 title: "Projects"
@@ -8,6 +8,9 @@ summary: ""
 active: Projects
 ---
 
+<h1>Work in progress</h1>
+
+<!---
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
@@ -31,3 +34,4 @@ active: Projects
   </ul>
 
 {% endfor %}
+--->
